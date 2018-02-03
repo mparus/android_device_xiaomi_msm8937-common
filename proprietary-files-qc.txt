@@ -172,7 +172,7 @@ vendor/lib64/libssd.so
 vendor/lib64/libStDrvInt.so
 vendor/lib64/libtzdrmgenprov.so
 
-# Gatekeeper - from santoni (Redmi 4X)
+# Gatekeeper - from TA-1025_00WW 8.1.0 OPR1.170623.026
 vendor/lib/hw/gatekeeper.msm8937.so
 vendor/lib64/hw/gatekeeper.msm8937.so
 
