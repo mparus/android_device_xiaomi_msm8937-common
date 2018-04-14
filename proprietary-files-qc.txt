@@ -60,6 +60,12 @@ vendor/bin/hci_qcomm_init
 vendor/lib64/libbtnv.so
 vendor/lib/libbtnv.so
 
+# Camera OMX - from TA-1000 - OPR1.170623.026
+vendor/lib/libMpeg4SwEncoder.so
+vendor/lib/libOmxSwVdec.so
+vendor/lib/libOmxVpp.so
+vendor/lib/libOmxSwVencMpeg4.so
+
 # CNE - from tissot - OPR1.170623.026
 etc/cne/andsfCne.xml
 etc/cne/SwimConfig.xml
