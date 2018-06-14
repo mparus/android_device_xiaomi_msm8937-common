@@ -233,3 +233,5 @@ void XtraSystemStatusObserver::notify(const list<IDataItemCore*>& dlist)
     };
     mMsgTask->sendMsg(new (nothrow) handleOsObserverUpdateMsg(this, dlist));
 }
+
+
